@@ -1,0 +1,35 @@
+# deryann
+output/
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+env.bak/
+env1/
+env2/
+.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled files
+*.pyd
+*.so
+*.dll
+*.exe
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
