@@ -59,7 +59,7 @@ B
 54 blue 藍色(的)
 55 boat 船
 56 book 書
-57 bow n.弓 v.敬禮
+57 bow n.弓v.敬禮
 58 bowl 碗
 59 box 盒子
 60 boy 男孩

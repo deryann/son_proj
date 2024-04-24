@@ -56,7 +56,7 @@ A
 45 altogether 完全地/全部
 46 always 總是
 47 ambulance 救護車
-48 among 之間(3 者以上)
+48 among 之間(3者以上)
 49 ancient 古老的
 50 anger 生氣
 51 ankle 腳踝
@@ -99,7 +99,7 @@ B
 
 B
 81 bath 洗澡
-82 bathe 洗澡 v.
+82 bathe 洗澡v.
 83 bean 豆
 84 beard 鬍鬚
 85 beautiful 美麗的
@@ -268,7 +268,7 @@ F
 216 fact 事實
 217 factory 工廠
 218 fail 失敗
-219 fall v.掉落 n.秋天
+219 fall v.掉落/n.秋天
 220 family 家人/家庭
 221 famous 有名的
 222 far 遠的
@@ -357,7 +357,7 @@ H
 I
 288 imagine 想像
 289 impolite 不禮貌的
-290 importance 重要性 n.
+290 importance 重要性n.
 291 improve 改善
 292 insist 堅持
 293 inspire 啟發
@@ -365,8 +365,8 @@ I
 295 intelligent 有智慧的
 296 interrupt 干擾
 297 introduce 介紹
-298 invent 發明 v.
-299 invitation 邀請(函) n.
+298 invent 發明v.
+299 invitation 邀請(函)n.
 300 island 島嶼
 301 it 它
 
@@ -380,8 +380,7 @@ J
 306 July 七月
 307 jump 跳躍
 308 June 六月
-309 junior high
-school 國中
+309 junior high school 國中
 
 K
 310 kill 殺
@@ -453,7 +452,7 @@ M
 
 M
 361 million 百萬
-362 mind n.想法/心智 v.介
+362 mind n.想法/心智v.介
 
 意
 363 minor 較小的
@@ -505,7 +504,7 @@ O
 403 obey 服從
 404 October 十月
 405 of prep. ..的
-406 off prep. 移開/移除
+406 off prep.移開/移除
 407 office 辦公室
 408 officer 職員/官員
 409 often 時常
@@ -574,8 +573,8 @@ P
 459 pocket 口袋
 460 police 警察
 461 polite 有禮貌的
-462 pollute 汙染 v.
-463 pollution 汙染 n.
+462 pollute 汙染v.
+463 pollution 汙染n.
 464 pond 池塘
 465 poor 窮的/可憐的
 
@@ -653,8 +652,7 @@ S
 S
 521 selfish 自私的
 522 send 寄送
-523 senior high
-school 高中
+523 senior high school 高中
 524 sentence 句子
 525 September 九月
 
@@ -711,7 +709,7 @@ S
 567 so 如此的
 568 soccer 足球
 569 social 社會的
-570 society 社會 n.
+570 society 社會n.
 571 socks 襪子
 572 sofa 沙發
 573 soldier 軍人
